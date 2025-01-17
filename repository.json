@@ -1,0 +1,11 @@
+{
+  "author": "Your Name",
+  "gitHubUrl": "https://github.com/Bitikus",
+  "packages": [
+    {
+      "id": "sonoffSnzb02pDriver",
+      "name": "Sonoff SNZB-02P Driver",
+      "location": "https://raw.githubusercontent.com/Bitikus/Sonoff-SNZB-02P-Driver/main/packageManifest.json"
+    }
+  ]
+}

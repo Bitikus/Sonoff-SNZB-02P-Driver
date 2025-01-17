@@ -1,0 +1,20 @@
+{
+  "packageName": "Sonoff SNZB-02P Driver",
+  "author": "Alexander Tivadze",
+  "namespace": "Bithome",
+  "description": "A driver for the Sonoff SNZB-02P Zigbee temperature and humidity sensor with advanced features, including presence detection and configurable reporting intervals.",
+  "category": "Drivers",
+  "documentationLink": "https://github.com/Bitikus/Sonoff-SNZB-02P-Driver",
+  "licenseFile": "https://github.com/Bitikus/Sonoff-SNZB-02P-Driver/blob/main/LICENSE",
+  "drivers": [
+    {
+      "id": "sonoffSnzb02pDriver",
+      "name": "Sonoff SNZB-02P Driver",
+      "namespace": "Bithome",
+      "location": "https://raw.githubusercontent.com/Bitikus/Sonoff-SNZB-02P-Driver/main/Sonoff-SNZB-02P-Driver.groovy",
+      "required": true
+    }
+  ],
+  "apps": [],
+  "version": "1.0.0"
+}

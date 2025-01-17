@@ -71,6 +71,14 @@ This custom driver is designed for the **Sonoff SNZB-02P** Zigbee temperature an
 - Hubitat Elevation Hub (C-5, C-7, or later).
 - Sonoff SNZB-02P Zigbee temperature and humidity sensor.
 
+## HPM
+It is better to add this driver via HPM
+Open the Hubitat Package Manager app in your Hubitat hub.
+Go to Repositories > Add a Repository.
+Enter the URL to repository file
+https://raw.githubusercontent.com/Bitikus/Sonoff-SNZB-02P-Driver/main/repository.json
+
+
 ---
 
 ## Contributing
